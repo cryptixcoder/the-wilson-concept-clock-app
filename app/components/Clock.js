@@ -40,12 +40,11 @@ export default class Clock extends Component {
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1,
-        marginTop: 40,
-        marginBottom: 40,
+        marginTop: 20,
         paddingHorizontal: 10,
         justifyContent: 'center',
         alignItems: 'center',
+        marginBottom: 20
     },
     timeText: {
         fontFamily: 'montserrat-bold',
