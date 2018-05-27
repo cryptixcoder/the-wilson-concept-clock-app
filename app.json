@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "sdkVersion": "27.0.0",
+    "icon": "./app/images/icon.png",
+    "slug": "the-wilson-concept",
+    "name": "The Wilson Concept Clock App",
+    "splash": {
+      "image": "./app/images/splash.png",
+      "backgroundColor": "#16bed4",
+      "resizeMode": "cover"
+    },
+    "ios": {
+      "bundleIdentifier": "com.thewilsonconcept.thewilsonconcept"
+    },
+    "android": {
+      "package": "com.thewilsonconcept.thewilsonconcept"
+    }
+  }
+}
